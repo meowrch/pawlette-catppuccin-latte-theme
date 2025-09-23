@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Tela circle dracula
-Comment=Flat and colorful personality icon theme
+Name=pawlette-catppuccin-latte
+Comment=Tela-circle-dracula icon theme + Bibata-Modern-Ice cursor (hyprcursor support)
 Inherits=hicolor,Adwaita,breeze
 Example=folder
 
